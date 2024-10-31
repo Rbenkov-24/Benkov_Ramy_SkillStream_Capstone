@@ -157,4 +157,5 @@ All my classmates who have been an incredible source of support, inspiration, an
 
 And special thanks to my dear friend of 28 years overseas, whose encouragement and help throughout my learning journey and especially with this project has been invaluable.
 
-Your support made this possible. Thank you!
+Your support made this possible. 
+Thank you!
